@@ -6,25 +6,14 @@ A significant amount of offensive content on social media targets women. Traditi
 If you find this work useful for your research, please kindly cite our paper:
 
 @article{REHMAN2025103895,
-
 title = {A context-aware attention and graph neural network-based multimodal framework for misogyny detection},
-
 journal = {Information Processing & Management},
-
 volume = {62},
-
 number = {1},
-
 pages = {103895},
-
 year = {2025},
-
 issn = {0306-4573},
-
 doi = {https://doi.org/10.1016/j.ipm.2024.103895},
-
 url = {https://www.sciencedirect.com/science/article/pii/S0306457324002541},
-
 author = {Mohammad Zia Ur Rehman and Sufyaan Zahoor and Areeb Manzoor and Musharaf Maqbool and Nagendra Kumar},
-
 }
